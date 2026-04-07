@@ -227,7 +227,7 @@ crime-safety-platform/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/lalithcs/crime.git
+git clone https://github.com/Nikkimaha09/CrimeScope.git
 cd crime-safety-platform
 ```
 
