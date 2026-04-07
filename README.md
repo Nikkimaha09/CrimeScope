@@ -1,4 +1,5 @@
 # CrimeScope 🔍
+Developed by: Nikhil Mahankali
 
 **CrimeScope** is an intelligent crime prediction and safety platform that leverages machine learning, real-time data analysis, and community participation to enhance public safety. The system provides predictive insights, safe route planning, and community alerts to help citizens make informed decisions about their safety.
 
