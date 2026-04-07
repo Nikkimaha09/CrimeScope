@@ -3,6 +3,13 @@
 **CrimeScope** is an intelligent crime prediction and safety platform that leverages machine learning, real-time data analysis, and community participation to enhance public safety. The system provides predictive insights, safe route planning, and community alerts to help citizens make informed decisions about their safety.
 
 ---
+## Project Contribution
+
+This project is based on an initial collaborative repository.  
+I have forked the project and further worked on:
+- Feature enhancements
+- Model improvements
+- Documentation and analysis
 
 ## 📋 Table of Contents
 
