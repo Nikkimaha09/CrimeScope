@@ -403,7 +403,7 @@ MIT License
 
 ## 👥 Contact
 
-**GitHub**: https://github.com/lalithcs/crime  
+**GitHub**: https://github.com/Nikkimaha09/CrimeScope  
 **Demo**: https://crimescope.vercel.app  
 
 ---
