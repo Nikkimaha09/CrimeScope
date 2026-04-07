@@ -5,11 +5,16 @@
 ---
 ## Project Contribution
 
-This project is based on an initial collaborative repository.  
-I have forked the project and further worked on:
-- Feature enhancements
-- Model improvements
-- Documentation and analysis
+This project was initially developed as part of a collaborative effort.  
+I have forked the base repository and independently extended it with the following contributions:
+
+- Enhanced frontend components and UI interactions
+- Improved backend API structure and modularization
+- Refined machine learning workflow for better prediction clarity
+- Added detailed documentation, architecture explanation, and deployment steps
+- Integrated additional features like analytics dashboard and safety insights
+
+All further development, testing, and documentation in this repository have been carried out by me.
 
 ## 📋 Table of Contents
 
