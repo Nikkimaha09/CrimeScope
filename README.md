@@ -227,7 +227,7 @@ crime-safety-platform/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Nikkimaha09/CrimeScope.git
+git clone https://github.com/lalithcs/crime.git
 cd crime-safety-platform
 ```
 
@@ -409,7 +409,7 @@ MIT License
 
 ## 👥 Contact
 
-**GitHub**: https://github.com/Nikkimaha09/CrimeScope  
+**GitHub**: https://github.com/lalithcs/crime  
 **Demo**: https://crimescope.vercel.app  
 
 ---
